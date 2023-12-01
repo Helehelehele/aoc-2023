@@ -13,10 +13,14 @@ defmodule Day01 do
 
   defp process_line(line) do
     line
+    # Get each character
     |> String.graphemes()
+    # Filter out non-numbers
     |> Enum.filter(fn x -> String.match?(x, ~r/^-?\d+$/) end)
+    # Convert to integers
     |> Enum.map(&String.to_integer/1)
     |> first_and_last()
+    # Convert to a single number
     |> Enum.reduce(&(&1 + &2 * 10))
   end
 
