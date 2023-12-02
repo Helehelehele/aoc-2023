@@ -6,4 +6,4 @@ Personal torture for the year 2023.
 Day | Part One with Elixir | Part Two with Elixir | Part One with Go | Part Two with Go
 --- | --- | --- | --- | ---
 1 | :star: | :star: | :star: | :star:
-2 | :star: | :star: | | 
+2 | :star: | :star: | :star: | :star:
