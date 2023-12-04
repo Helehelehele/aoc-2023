@@ -8,3 +8,4 @@ Day | Part One with Elixir | Part Two with Elixir | Part One with Go | Part Two 
 1 | :star: | :star: | :star: | :star:
 2 | :star: | :star: | :star: | :star:
 3 | :star: | :star: | :star: | :star:
+4 | :star: | :star: | | 
